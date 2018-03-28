@@ -1,0 +1,7 @@
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\bin\Release\OPCTEST.exe.config
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Release\Interop.OPCAutomation.dll
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Release\OPCTEST.csproj.ResolveComReference.cache
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\bin\Release\OPCTEST.exe
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\bin\Release\OPCTEST.pdb
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Release\OPCTEST.exe
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Release\OPCTEST.pdb

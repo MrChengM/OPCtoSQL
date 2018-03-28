@@ -1,0 +1,24 @@
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe.config
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Debug\OPCTEST.csproj.ResolveComReference.cache
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\bin\Debug\OPCTEST.pdb
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Debug\OPCTEST.exe
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Debug\OPCTEST.pdb
+C:\Users\705475\Desktop\OPCTEST\OPCTEST\obj\Debug\OPCTEST.csprojResolveAssemblyReference.cache
+D:\C# Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe.config
+D:\C# Projects\OPCTEST\OPCTEST\obj\Debug\Interop.OPCAutomation.dll
+D:\C# Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.csproj.ResolveComReference.cache
+D:\C# Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.exe
+D:\C# Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.pdb
+D:\C# Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+D:\C# Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.pdb
+D:\C# Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.csprojResolveAssemblyReference.cache
+D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe.config
+D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\Interop.OPCAutomation.dll
+D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.csproj.ResolveComReference.cache
+D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.exe
+D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.pdb
+D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.pdb
+D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.csprojResolveAssemblyReference.cache
