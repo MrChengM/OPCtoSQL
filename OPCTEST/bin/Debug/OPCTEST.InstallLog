@@ -1,0 +1,107 @@
+﻿Installing assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Installing service OPCSQLService...
+Service OPCSQLService has been successfully installed.
+Creating EventLog source OPCSQLService in log Application...
+Committing assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Removing EventLog source OPCSQLService.
+Service OPCSQLService is being removed from the system...
+Service OPCSQLService was successfully removed from the system.
+Installing assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Installing service OPCSQLService...
+Creating EventLog source OPCSQLService in log Application...
+Rolling back assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Restoring event log to previous state for source OPCSQLService.
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Removing EventLog source OPCSQLService.
+Warning: The source OPCSQLService is not registered on the local machine.
+Service OPCSQLService is being removed from the system...
+Service OPCSQLService was successfully removed from the system.
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Removing EventLog source OPCSQLService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Installing service OPCSQLService...
+Creating EventLog source OPCSQLService in log Application...
+Rolling back assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Restoring event log to previous state for source OPCSQLService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Installing service OPCSQLService...
+Service OPCSQLService has been successfully installed.
+Creating EventLog source OPCSQLService in log Application...
+Committing assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe assembly.
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe assembly.
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe assembly.
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
+Removing EventLog source OPCSQLService.
+Service OPCSQLService is being removed from the system...
+Service OPCSQLService was successfully removed from the system.

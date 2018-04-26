@@ -1,0 +1,34 @@
+﻿Installing assembly 'D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe
+Installing service OPCTESTService...
+Service OPCTESTService has been successfully installed.
+Creating EventLog source OPCTESTService in log Application...
+Committing assembly 'D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe
+Uninstalling assembly 'D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe
+Removing EventLog source OPCTESTService.
+Service OPCTESTService is being removed from the system...
+Service OPCTESTService was successfully removed from the system.
+Installing assembly 'D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe
+Installing service OPCTESTService...
+Service OPCTESTService has been successfully installed.
+Creating EventLog source OPCTESTService in log Application...
+Committing assembly 'D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.InstallLog
+   assemblypath = D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe

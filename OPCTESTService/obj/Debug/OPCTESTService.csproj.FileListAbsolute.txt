@@ -1,0 +1,10 @@
+D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe.config
+D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.exe
+D:\C#Projects\OPCTEST\OPCTESTService\bin\Debug\OPCTESTService.pdb
+D:\C#Projects\OPCTEST\OPCTESTService\obj\Debug\Interop.OPCAutomation.dll
+D:\C#Projects\OPCTEST\OPCTESTService\obj\Debug\OPCTESTService.csproj.ResolveComReference.cache
+D:\C#Projects\OPCTEST\OPCTESTService\obj\Debug\OPCTESTService.ProjectInstaller.resources
+D:\C#Projects\OPCTEST\OPCTESTService\obj\Debug\OPCTESTService.csproj.GenerateResource.Cache
+D:\C#Projects\OPCTEST\OPCTESTService\obj\Debug\OPCTESTService.exe
+D:\C#Projects\OPCTEST\OPCTESTService\obj\Debug\OPCTESTService.pdb
+D:\C#Projects\OPCTEST\OPCTESTService\obj\Debug\Interop.Office.dll

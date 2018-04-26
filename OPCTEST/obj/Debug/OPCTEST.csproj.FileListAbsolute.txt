@@ -21,4 +21,4 @@ D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.exe
 D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.pdb
 D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe
 D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.pdb
-D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\OPCTEST.csprojResolveAssemblyReference.cache
+D:\C#Projects\OPCTEST\OPCTEST\obj\Debug\Interop.Office.dll

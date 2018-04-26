@@ -1,0 +1,34 @@
+﻿
+
+The uninstall is beginning.
+See the contents of the log file for the D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe assembly's progress.
+The file is located at D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe assembly's progress.
+The file is located at D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe assembly's progress.
+The file is located at D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.exe assembly's progress.
+The file is located at D:\C#Projects\OPCTEST\OPCTEST\bin\Debug\OPCTEST.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.ArgumentException: The savedState dictionary contains inconsistent data and might have been corrupted.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.

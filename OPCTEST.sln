@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCTEST", "OPCTEST\OPCTEST.csproj", "{7B565C49-6D1F-43F8-B246-AC45820F5E30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCTESTService", "OPCTESTService\OPCTESTService.csproj", "{51B053DF-7E4E-49B1-91BF-F4BC93F67B89}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B565C49-6D1F-43F8-B246-AC45820F5E30} = {7B565C49-6D1F-43F8-B246-AC45820F5E30}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{7B565C49-6D1F-43F8-B246-AC45820F5E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B565C49-6D1F-43F8-B246-AC45820F5E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B565C49-6D1F-43F8-B246-AC45820F5E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B053DF-7E4E-49B1-91BF-F4BC93F67B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B053DF-7E4E-49B1-91BF-F4BC93F67B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B053DF-7E4E-49B1-91BF-F4BC93F67B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B053DF-7E4E-49B1-91BF-F4BC93F67B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
