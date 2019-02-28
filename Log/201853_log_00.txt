@@ -1,0 +1,61 @@
+2018/5/3 8:29:39 Message:Service Start.
+2018/5/3 8:29:39 Message:Initialize Compalte.
+2018/5/3 8:29:39 Message:OPCClient Thread Start.
+2018/5/3 8:29:39 Message:SqlInsert Thread Start.
+2018/5/3 8:29:56 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/3 8:29:56 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/3 8:29:56 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/3 8:29:56 Message:"Updata From OPC Server" Start.
+2018/5/3 8:29:56 Message:"Insert To Sql" Start.
+2018/5/3 9:22:25 Meagges:Server Shut Down"Server is shutting down".
+2018/5/3 9:22:25 Message:"Updata From OPC Server" Stop.
+2018/5/3 9:22:25 Message:"Insert To Sql" Stop.
+2018/5/3 9:22:25 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/5/3 9:22:26 Message:"Updata From OPC Server" Stop.
+2018/5/3 9:22:26 Message:"Insert To Sql" Stop.
+2018/5/3 9:22:26 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/5/3 9:23:29 Message:Service Start.
+2018/5/3 9:23:29 Message:Initialize Compalte.
+2018/5/3 9:23:29 Message:OPCClient Thread Start.
+2018/5/3 9:23:29 Message:SqlInsert Thread Start.
+2018/5/3 9:23:47 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/3 9:23:47 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/3 9:23:48 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/3 9:23:48 Message:"Updata From OPC Server" Start.
+2018/5/3 9:23:48 Message:"Insert To Sql" Start.
+2018/5/3 9:42:57 Meagges:Server Shut Down"Server is shutting down".
+2018/5/3 9:42:57 Message:"Updata From OPC Server" Stop.
+2018/5/3 9:42:57 Message:"Insert To Sql" Stop.
+2018/5/3 9:42:57 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/5/3 9:42:58 Message:"Updata From OPC Server" Stop.
+2018/5/3 9:42:58 Message:"Insert To Sql" Stop.
+2018/5/3 9:42:58 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/5/3 9:44:01 Message:Service Start.
+2018/5/3 9:44:01 Message:Initialize Compalte.
+2018/5/3 9:44:01 Message:OPCClient Thread Start.
+2018/5/3 9:44:01 Message:SqlInsert Thread Start.
+2018/5/3 9:44:18 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/3 9:44:18 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/3 9:44:18 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/3 9:44:18 Message:"Updata From OPC Server" Start.
+2018/5/3 9:44:18 Message:"Insert To Sql" Start.
+2018/5/3 9:47:53 Meagges:Server Shut Down"Server is shutting down".
+2018/5/3 9:47:53 Message:"Updata From OPC Server" Stop.
+2018/5/3 9:47:53 Message:"Insert To Sql" Stop.
+2018/5/3 9:47:53 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/5/3 9:47:54 Message:"Updata From OPC Server" Stop.
+2018/5/3 9:47:54 Message:"Insert To Sql" Stop.
+2018/5/3 9:47:54 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/5/3 9:50:52 Message:Service Start.
+2018/5/3 9:50:52 Message:Initialize Compalte.
+2018/5/3 9:50:52 Message:OPCClient Thread Start.
+2018/5/3 9:50:52 Message:SqlInsert Thread Start.
+2018/5/3 9:51:10 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/3 9:51:10 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/3 9:51:10 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/3 9:51:10 Message:"Updata From OPC Server" Start.
+2018/5/3 9:51:10 Message:"Insert To Sql" Start.
+2018/5/3 16:59:34 Meagges:Server Shut Down"Server is shutting down".
+2018/5/3 16:59:35 Message:"Updata From OPC Server" Stop.
+2018/5/3 16:59:35 Message:"Insert To Sql" Stop.
+2018/5/3 16:59:35 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)

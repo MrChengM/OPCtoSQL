@@ -1,0 +1,32 @@
+2018/4/27 8:40:22 Message:Service Start.
+2018/4/27 8:40:22 Message:Initialize Compalte.
+2018/4/27 8:40:22 Message:OPCClient Thread Start.
+2018/4/27 8:40:22 Message:SqlInsert Thread Start.
+2018/4/27 8:40:39 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/4/27 8:40:39 Message:New a KepGroup"S7_PLC01.Main".
+2018/4/27 8:40:39 Message:New a KepGroup"S7_PLC15.Main".
+2018/4/27 8:40:39 Message:"Updata From OPC Server" Start.
+2018/4/27 8:40:39 Message:"Insert To Sql" Start.
+2018/4/27 14:37:38 Meagges:Server Shut Down"Server is shutting down".
+2018/4/27 14:37:38 Message:"Updata From OPC Server" Stop.
+2018/4/27 14:37:38 Message:"Insert To Sql" Stop.
+2018/4/27 14:37:38 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/4/27 14:37:39 Message:"Updata From OPC Server" Stop.
+2018/4/27 14:37:39 Message:"Insert To Sql" Stop.
+2018/4/27 14:37:39 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/4/27 14:38:43 Message:Service Start.
+2018/4/27 14:38:43 Message:Initialize Compalte.
+2018/4/27 14:38:43 Message:OPCClient Thread Start.
+2018/4/27 14:38:43 Message:SqlInsert Thread Start.
+2018/4/27 14:39:01 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/4/27 14:39:01 Message:New a KepGroup"S7_PLC01.Main".
+2018/4/27 14:39:01 Message:New a KepGroup"S7_PLC15.Main".
+2018/4/27 14:39:01 Message:"Updata From OPC Server" Start.
+2018/4/27 14:39:01 Message:"Insert To Sql" Start.
+2018/4/27 16:59:40 Meagges:Server Shut Down"Server is shutting down".
+2018/4/27 16:59:41 Message:"Updata From OPC Server" Stop.
+2018/4/27 16:59:41 Message:"Insert To Sql" Stop.
+2018/4/27 16:59:41 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+2018/4/27 16:59:42 Message:"Updata From OPC Server" Stop.
+2018/4/27 16:59:42 Message:"Insert To Sql" Stop.
+2018/4/27 16:59:42 Error:Connected to OPCServer error：A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)

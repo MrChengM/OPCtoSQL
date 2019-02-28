@@ -1,0 +1,273 @@
+2018/5/21 8:55:08 Message:Service Start.
+2018/5/21 8:55:08 Message:Initialize Compalte.
+2018/5/21 8:55:08 Message:OPCClient Thread Start.
+2018/5/21 8:55:08 Message:SqlInsert Thread Start.
+2018/5/21 8:55:26 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 8:55:26 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 8:55:26 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 8:55:26 Message:"Updata From OPC Server" Start.
+2018/5/21 8:55:26 Message:"Insert To Sql" Start.
+2018/5/21 14:31:36 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:31:37 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:31:37 Message:"Insert To Sql" Stop.
+2018/5/21 14:31:42 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:31:42 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:31:42 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:31:42 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:31:42 Message:"Insert To Sql" Strat.
+2018/5/21 14:31:46 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:31:46 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:31:46 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:31:46 Message:"Insert To Sql" Stop.
+2018/5/21 14:31:46 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:31:46 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_SYSTEM_KAL_DEVICE2_SIGNAL_1 invlid. 
+2018/5/21 14:31:46 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_SYSTEM_KAL_MAIN_SIGNAL_1 invlid. 
+2018/5/21 14:31:46 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:31:47 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:31:47 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:31:47 Message:"Insert To Sql" Strat.
+2018/5/21 14:32:47 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:32:47 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:32:47 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:32:48 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:32:48 Message:"Insert To Sql" Stop.
+2018/5/21 14:32:48 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC112_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC122_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC122_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC124_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC124_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC126_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC126_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC129_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC129_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC130_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC130_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC138_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC138_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC139_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC139_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC143_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC143_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC145_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC145_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC147_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC147_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC150_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_PC150_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_XC004_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL35_XC004_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC001_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC001_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC005_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC005_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC006_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC006_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC007_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_BC007_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_XC004_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL36_XC004_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC001_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC001_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC005_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC005_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC006_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC006_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC009_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC009_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC011_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC011_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC012_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_BC012_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_PC007_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_PC007_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_PC008_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_PC008_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_PC010_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_PC010_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_XC004_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC01.Main.CRISBELT_PLC01_TL37_XC004_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC101_DC101_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC101_DC101_ES01_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC101_DC101_ES02_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC101_DC101_ES03_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC101_DC101_ES04_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC101_DC101_IOB_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC101_DC101_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC103_DC103_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC103_DC103_ES01_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC103_DC103_ES02_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC103_DC103_ES03_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC103_DC103_ES04_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC103_DC103_IOB_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DC103_DC103_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC001_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC001_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC004_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC004_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC005_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BC005_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BM006_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_BM006_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_DL11_BC001_ES_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_DL11_BC001_IOB_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_PC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL11_PC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC001_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC001_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC005_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC005_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC007_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC007_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC008_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_BC008_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_DL12_BC001_ES_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_DL12_BC001_IOB_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_DL12_BC003_ES_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_DL12_BC003_IOB_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_PC004_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_PC004_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_PC006_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_PC006_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_TTS01_DPDP01_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DL12_TTS01_DPDP02_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_BC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_BC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_BC005_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_BC005_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_PC004_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT01_PC004_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT02_BC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT02_BC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT02_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT02_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT05_BC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT05_BC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT05_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT05_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT06_BC002_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT06_BC002_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT06_BC003_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_DT06_BC003_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_FCC01_ES_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_FCC01_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_FCC01_SIGNAL_2 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_FCC02_ES_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_FCC02_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_FCC02_SIGNAL_2 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_LINE_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_LINE_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_MCC01_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_MCC01_SIGNAL_2 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_ONE_KEY_START_CM invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_MCC01_ONE_KEY_START_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_PLC_PLC15_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_SYSTEM_KAL_DEVICE2_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Error:The ItemID S7_PLC15.Main.CRISBELT_PLC15_SYSTEM_KAL_MAIN_SIGNAL_1 invlid. 
+2018/5/21 14:32:48 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:32:48 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:32:48 Message:"Insert To Sql" Strat.
+2018/5/21 14:40:01 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:01 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:01 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:01 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:01 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:40:01 Message:"Insert To Sql" Stop.
+2018/5/21 14:40:02 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:40:02 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:40:02 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:40:02 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:40:02 Message:"Insert To Sql" Strat.
+2018/5/21 14:40:19 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:19 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:19 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:19 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:19 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:19 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:40:19 Message:"Insert To Sql" Stop.
+2018/5/21 14:40:20 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:40:20 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:40:20 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:40:20 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:40:20 Message:"Insert To Sql" Strat.
+2018/5/21 14:40:36 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:36 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:36 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:36 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:36 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:36 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:40:36 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:40:36 Message:"Insert To Sql" Stop.
+2018/5/21 14:40:37 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:40:37 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:40:37 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:40:37 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:40:37 Message:"Insert To Sql" Strat.
+2018/5/21 14:52:38 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:52:38 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:52:38 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:52:38 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:52:38 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:52:38 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:52:38 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:52:39 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:52:39 Message:"Insert To Sql" Stop.
+2018/5/21 14:52:39 Error:Connected to OPCServer error：Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+2018/5/21 14:52:40 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:52:40 Message:"Insert To Sql" Stop.
+2018/5/21 14:52:40 Error:Connected to OPCServer error：Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+2018/5/21 14:52:41 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:52:41 Message:"Insert To Sql" Stop.
+2018/5/21 14:52:44 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:52:44 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:52:45 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:52:45 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:52:45 Message:"Insert To Sql" Strat.
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 14:55:54 Message:"Updata From OPC Server" Stop.
+2018/5/21 14:55:54 Message:"Insert To Sql" Stop.
+2018/5/21 14:55:55 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 14:55:55 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 14:55:55 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 14:55:55 Message:"Updata From OPC Server" Strat.
+2018/5/21 14:55:55 Message:"Insert To Sql" Strat.
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:24 Meagges:Server Shut Down"Server is shutting down".
+2018/5/21 16:33:25 Message:"Updata From OPC Server" Stop.
+2018/5/21 16:33:25 Message:"Insert To Sql" Stop.
+2018/5/21 16:33:25 Message:Connected to Kepware.KEPServerEX.V6 successfully.
+2018/5/21 16:33:25 Message:New a KepGroup"S7_PLC01.Main".
+2018/5/21 16:33:25 Message:New a KepGroup"S7_PLC15.Main".
+2018/5/21 16:33:25 Message:"Updata From OPC Server" Strat.
+2018/5/21 16:33:25 Message:"Insert To Sql" Strat.
